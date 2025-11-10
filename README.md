@@ -4,7 +4,7 @@
 
 🇰🇷
 
-### 🛠 My Tech Stack — Tools & Languages I've Worked With
+### 🛠 My Tech Stack
 Techs, tools, and languages that I’ve worked with or explored.
 
 <br>
