@@ -4,8 +4,8 @@
 
 🇰🇷
 
-### 🛠 Tech Stack 🛠  
-Techs that I've used at least once
+### 🛠 My Tech Stack — Tools & Languages I've Worked With
+Techs, tools, and languages that I’ve worked with or explored.
 
 <br>
 
@@ -24,11 +24,13 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
-### 👻 Me 👻  
+### 👻 Me 👻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gi._.chang/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@imfox)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rlckdwkd55@naver.com)
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=rlckdwkd55&color=blue" alt="Profile Views"/>
 <img src="https://hits.sh/github.com/rlckdwkd55.svg?style=flat-square&label=visits" alt="Hits"/>
