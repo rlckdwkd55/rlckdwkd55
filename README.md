@@ -9,50 +9,97 @@
 -->
 <!-- <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/> -->
 
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlckdwkd55&bg_color=0f172a&color=60a5fa&line=1d4ed8&point=3b82f6&area=true&hide_border=true"/>
+</p>
+
+---
+
 ### 🛠 Skills
 
-**Language**
+<details>
+  <summary><strong> Language </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  ![Java](https://img.shields.io/badge/-Java-1E293B?style=flat&logo=openjdk&logoColor=F89820)
+  ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
 
-**Backend**
+  <br>
+</details>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+<details>
+  <summary><strong> Backend </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-**Frontend**
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1E293B?style=flat&logo=springboot&logoColor=6DB33F)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-1E293B?style=flat&logo=springsecurity&logoColor=6DB33F)
+  ![JPA](https://img.shields.io/badge/-JPA-1E293B?style=flat&logo=hibernate&logoColor=BCAE79)
+  ![MyBatis](https://img.shields.io/badge/-MyBatis-1E293B?style=flat&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-1E293B?style=flat&logo=fastapi&logoColor=009688)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1E293B?style=flat&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-1E293B?style=flat&logo=nodedotjs&logoColor=339933)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <br>
+</details>
 
-**AI & Search**
+<details>
+  <summary><strong> Frontend </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6640?style=flat-square&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-1E293B?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+  ![React](https://img.shields.io/badge/-React-1E293B?style=flat&logo=react&logoColor=61DAFB)
+  ![Zustand](https://img.shields.io/badge/-Zustand-1E293B?style=flat&logoColor=white)
+  ![styled-components](https://img.shields.io/badge/-styled--components-1E293B?style=flat&logo=styledcomponents&logoColor=DB7093)
 
-**Database**
+  <br>
+</details>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
+<details>
+  <summary><strong> AI & Search </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-**Infra & Tools**
+  ![RAG](https://img.shields.io/badge/-RAG-1E293B?style=flat&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/-LangChain-1E293B?style=flat&logo=langchain&logoColor=A3BE8C)
+  ![LangGraph](https://img.shields.io/badge/-LangGraph-1E293B?style=flat&logoColor=A3BE8C)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1E293B?style=flat&logo=elasticsearch&logoColor=60A5FA)
+  ![Qdrant](https://img.shields.io/badge/-Qdrant-1E293B?style=flat&logoColor=FF6640)
+  ![vLLM](https://img.shields.io/badge/-vLLM-1E293B?style=flat&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" title="Gradle" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="Maven" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+  <br>
+</details>
+
+<details>
+  <summary><strong> Database </strong> <sub>(click to expand)</sub></summary>
+  <br>
+
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat&logo=postgresql&logoColor=4169E1)
+  ![Oracle](https://img.shields.io/badge/-Oracle-1E293B?style=flat&logo=oracle&logoColor=F80000)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-1E293B?style=flat&logo=mariadb&logoColor=4FC1E9)
+  ![Redis](https://img.shields.io/badge/-Redis-1E293B?style=flat&logo=redis&logoColor=DC382D)
+
+  <br>
+</details>
+
+<details>
+  <summary><strong> Infra & Tools </strong> <sub>(click to expand)</sub></summary>
+  <br>
+
+  ![Docker](https://img.shields.io/badge/-Docker-1E293B?style=flat&logo=docker&logoColor=2496ED)
+  ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-1E293B?style=flat&logo=docker&logoColor=2496ED)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1E293B?style=flat&logo=githubactions&logoColor=2088FF)
+  ![Gradle](https://img.shields.io/badge/-Gradle-1E293B?style=flat&logo=gradle&logoColor=A3BE8C)
+  ![Maven](https://img.shields.io/badge/-Maven-1E293B?style=flat&logo=apachemaven&logoColor=C71A36)
+  ![Git](https://img.shields.io/badge/-Git-1E293B?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-1E293B?style=flat&logo=github&logoColor=FFFFFF)
+  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-1E293B?style=flat&logo=amazonec2&logoColor=FF9900)
+
+  <br>
+</details>
+
+---
 
 ### 🔗 Connect with me
 
@@ -68,14 +115,21 @@
     </a>
 </div>
 
+<br>
+
 ### 📄 Employer?
 
 > [!IMPORTANT]
 > <a href="https://drive.google.com/file/d/16-HlWYoGXVdmd4eseBkchdKezt2W2pIP/view?usp=sharing">Download my resume</a>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=rlckdwkd55&color=blue" alt="Profile Views"/>
-<img src="https://hits.sh/github.com/rlckdwkd55.svg?style=flat-square&label=visits" alt="Hits"/>
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frlckdwkd55">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frlckdwkd55&label=visitors&labelColor=%230f172a&countColor=%231d4ed8&style=flat-square"/>
+  </a>
+</p>
+
+<p align=center><sub>Created with ❤️ by Gichang</sub></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=120&section=footer" alt="footer"/>
