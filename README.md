@@ -20,10 +20,10 @@
 <details>
   <summary><strong> Language </strong> <sub>(click to expand)</sub></summary>
 
-  ![Java](https://img.shields.io/badge/-Java-1E293B?style=flat&logo=openjdk&logoColor=F89820)
-  ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
+  > ![Java](https://img.shields.io/badge/-Java-1E293B?style=flat&logo=openjdk&logoColor=F89820)
+  > ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
+  > ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
+  > ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
 </details>
 
 <details>
@@ -72,10 +72,10 @@
 <details>
   <summary><strong> Database </strong> <sub>(click to expand)</sub></summary>
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat&logo=postgresql&logoColor=4169E1)
-  ![Oracle](https://img.shields.io/badge/-Oracle-1E293B?style=flat&logo=oracle&logoColor=F80000)
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-1E293B?style=flat&logo=mariadb&logoColor=4FC1E9)
-  ![Redis](https://img.shields.io/badge/-Redis-1E293B?style=flat&logo=redis&logoColor=DC382D)
+  > ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat&logo=postgresql&logoColor=4169E1)
+  > ![Oracle](https://img.shields.io/badge/-Oracle-1E293B?style=flat&logo=oracle&logoColor=F80000)
+  > ![MariaDB](https://img.shields.io/badge/-MariaDB-1E293B?style=flat&logo=mariadb&logoColor=4FC1E9)
+  > ![Redis](https://img.shields.io/badge/-Redis-1E293B?style=flat&logo=redis&logoColor=DC382D)
 </details>
 
 <details>
