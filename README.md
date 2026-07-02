@@ -30,7 +30,6 @@
 
 <details>
   <summary><strong> Backend </strong> <sub>(click to expand)</sub></summary>
-  <br>
 
   ###### Java
   > ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1E293B?style=flat&logo=springboot&logoColor=6DB33F)
@@ -49,7 +48,6 @@
 
 <details>
   <summary><strong> Frontend </strong> <sub>(click to expand)</sub></summary>
-  <br>
 
   ###### Framework
   > ![Next.js](https://img.shields.io/badge/-Next.js-1E293B?style=flat&logo=nextdotjs&logoColor=FFFFFF)
@@ -63,7 +61,6 @@
 
 <details>
   <summary><strong> AI & Search </strong> <sub>(click to expand)</sub></summary>
-  <br>
 
   ###### LLM & RAG
   > ![RAG](https://img.shields.io/badge/-RAG-1E293B?style=flat&logoColor=white)
@@ -90,7 +87,6 @@
 
 <details>
   <summary><strong> Infra & Tools </strong> <sub>(click to expand)</sub></summary>
-  <br>
 
   ###### Container & CI/CD
   > ![Docker](https://img.shields.io/badge/-Docker-1E293B?style=flat&logo=docker&logoColor=2496ED)
