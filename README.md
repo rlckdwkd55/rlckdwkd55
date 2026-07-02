@@ -2,16 +2,7 @@
 
 ## Hi, I'm Gichang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
----
-
-<h3>
-  <img src="./assets/gifs/about-me.gif" width="55" align="middle"> About Me
-</h3>
-
-- 🔭 **백엔드 & AI/Search** 중심의 풀스택 개발자
-- 🌱 **Spring Boot · FastAPI · LangChain**
-- 📫 **rlckdwkd55@naver.com**
-- 📸 [@gi._.chang](https://www.instagram.com/gi._.chang/)
+**Full-Stack Developer**
 
 <br>
 
@@ -121,6 +112,30 @@
 
   <br>
 </details>
+
+---
+
+<h3>
+  <img src="./assets/gifs/about-me.gif" width="55" align="middle"> Contact
+</h3>
+
+<div>
+  <a href="mailto:rlckdwkd55@naver.com">
+    <img src="https://img.shields.io/badge/Email-rlckdwkd55%40naver.com-1E293B?style=for-the-badge&logo=naver&logoColor=03C75A" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/gi._.chang/">
+    <img src="https://img.shields.io/badge/Instagram-@gi._.chang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <br><br>
+  <a href="https://rlckdwkd55.github.io/">
+    <img src="https://img.shields.io/badge/Blog-rlckdwkd55.github.io-20C997?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://rlckdwkd55.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-rlckdwkd55.github.io/portfolio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
 
 ---
 
