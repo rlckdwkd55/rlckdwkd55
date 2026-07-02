@@ -1,11 +1,15 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gichang+%F0%9F%91%8B;Full-Stack+Developer)](https://git.io/typing-svg)
+
 🇰🇷
 
 ### 🛠 My Tech Stack
 Techs, tools, and languages that I've worked with or explored.
 
 <br>
+
+**Language**
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -14,21 +18,29 @@ Techs, tools, and languages that I've worked with or explored.
 
 <br>
 
+**Backend**
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 <br>
 
+**Frontend**
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 <br>
 
+**AI & Search**
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
 <br>
+
+**Database**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -36,6 +48,8 @@ Techs, tools, and languages that I've worked with or explored.
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 
 <br>
+
+**Infra & Tools**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
