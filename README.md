@@ -25,8 +25,7 @@
   ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
-
-  <br>
+  
 </details>
 
 <details>
@@ -46,7 +45,6 @@
   ###### Node
   > ![Node.js](https://img.shields.io/badge/-Node.js-1E293B?style=flat&logo=nodedotjs&logoColor=339933)
 
-  <br>
 </details>
 
 <details>
@@ -61,7 +59,6 @@
   > ![Zustand](https://img.shields.io/badge/-Zustand-1E293B?style=flat&logoColor=white)
   > ![styled-components](https://img.shields.io/badge/-styled--components-1E293B?style=flat&logo=styledcomponents&logoColor=DB7093)
 
-  <br>
 </details>
 
 <details>
@@ -78,7 +75,6 @@
   > ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1E293B?style=flat&logo=elasticsearch&logoColor=60A5FA)
   > ![Qdrant](https://img.shields.io/badge/-Qdrant-1E293B?style=flat&logoColor=FF6640)
 
-  <br>
 </details>
 
 <details>
@@ -90,7 +86,6 @@
   ![MariaDB](https://img.shields.io/badge/-MariaDB-1E293B?style=flat&logo=mariadb&logoColor=4FC1E9)
   ![Redis](https://img.shields.io/badge/-Redis-1E293B?style=flat&logo=redis&logoColor=DC382D)
 
-  <br>
 </details>
 
 <details>
@@ -110,7 +105,6 @@
   > ![Git](https://img.shields.io/badge/-Git-1E293B?style=flat&logo=git&logoColor=F05032)
   > ![GitHub](https://img.shields.io/badge/-GitHub-1E293B?style=flat&logo=github&logoColor=FFFFFF)
 
-  <br>
 </details>
 
 ---
