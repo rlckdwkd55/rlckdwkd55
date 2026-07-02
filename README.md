@@ -1,8 +1,6 @@
 <img width=100% src="./assets/banner.gif" alt="banner"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1D4ED8&width=500&lines=Hi%2C+I'm+Gichang!;Full-Stack+Developer" alt="Typing SVG"/>
-</a>
+## Hi, I'm Gichang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 ---
 
@@ -10,15 +8,12 @@
   <img src="./assets/gifs/about-me.gif" width="55" align="middle"> About Me
 </h3>
 
-<img align="right" src="./assets/gifs/about-me.gif" width="200"/>
+- 🔭 **백엔드 & AI/Search** 중심의 풀스택 개발자
+- 🌱 **Spring Boot · FastAPI · LangChain**
+- 📫 **rlckdwkd55@naver.com**
+- 📸 [@gi._.chang](https://www.instagram.com/gi._.chang/)
 
-- 🔭 **Full-Stack Developer** focused on Backend & AI/Search
-- 🌱 Currently working with **Spring Boot, FastAPI, LangChain**
-- ⚡ Interested in **RAG pipelines, Vector Search, LLM serving**
-- 📫 Reach me at **imgc@warebiz.co.kr**
-- 🌐 Blog: [rlckdwkd55.github.io](https://rlckdwkd55.github.io) &nbsp;|&nbsp; Portfolio: [rlckdwkd55.github.io/portfolio](https://rlckdwkd55.github.io/portfolio)
-
-<br><br>
+<br>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -116,10 +111,9 @@
   > ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-1E293B?style=flat&logo=docker&logoColor=2496ED)
   > ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1E293B?style=flat&logo=githubactions&logoColor=2088FF)
 
-  ###### Build & Cloud
+  ###### Build
   > ![Gradle](https://img.shields.io/badge/-Gradle-1E293B?style=flat&logo=gradle&logoColor=A3BE8C)
   > ![Maven](https://img.shields.io/badge/-Maven-1E293B?style=flat&logo=apachemaven&logoColor=C71A36)
-  > ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-1E293B?style=flat&logo=amazonec2&logoColor=FF9900)
 
   ###### Version Control
   > ![Git](https://img.shields.io/badge/-Git-1E293B?style=flat&logo=git&logoColor=F05032)
@@ -129,46 +123,6 @@
 </details>
 
 ---
-
-<h3>
-  <img src="./assets/gifs/postits.gif" width="55" align="middle"> Projects
-</h3>
-
-<details>
-  <summary><strong> Web & Backend </strong> <sub>(click to expand)</sub></summary>
-  <br>
-
-  > [![](https://img.shields.io/badge/-📌%20Portfolio%20Website-1E293B?style=flat)](https://rlckdwkd55.github.io/portfolio)
-
-  <br>
-</details>
-
-<details>
-  <summary><strong> AI & Search </strong> <sub>(click to expand)</sub></summary>
-  <br>
-
-  > [![](https://img.shields.io/badge/-🔍%20Coming%20Soon-1E293B?style=flat)]()
-
-  <br>
-</details>
-
----
-
-### 🔗 Connect with me
-
-<div>
-    <a href="https://www.instagram.com/gi._.chang/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://rlckdwkd55.github.io/">
-        <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
-    </a>
-    <a href="https://rlckdwkd55.github.io/portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-    </a>
-</div>
-
-<br>
 
 ### 📄 Employer?
 
@@ -184,5 +138,3 @@
 </p>
 
 <p align=center><sub>Created with ❤️ by Gichang</sub></p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=120&section=footer" alt="footer"/>
