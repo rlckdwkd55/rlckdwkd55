@@ -9,9 +9,17 @@
 -->
 <!-- <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/> -->
 
-### 🛠 Main skills
+### 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,spring,fastapi,nodejs,nextjs,react,docker,postgres,redis,elasticsearch,githubactions,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,python,ts,js,spring,fastapi,nodejs,nextjs,react,postgres,redis,docker,git,githubactions,aws&perline=8)](https://skillicons.dev)
+
+**AI & Search**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6640?style=flat-square&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logoColor=white)
 
 ### 🔗 Connect with me
 
