@@ -1,8 +1,10 @@
 <img width=100% src="./assets/banner.gif" alt="banner"/>
 
-## Hi, I'm Gichang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+<h1 align="center">Hi, I'm Gichang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/></h1>
 
-**Full-Stack Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;RAG+%26+LLM+Enthusiast;Backend+%2F+Frontend+Both!"/>
+</p>
 
 <br>
 
@@ -11,21 +13,32 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlckdwkd55&bg_color=0f172a&color=60a5fa&line=1d4ed8&point=3b82f6&area=true&hide_border=true"/>
 </p>
 
+<!-- Stats + Top Langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlckdwkd55&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlckdwkd55&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1" width="48%"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlckdwkd55&hide_border=true&background=0f172a&stroke=1d4ed8&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa"/>
+</p>
+
 ---
 
 <h3>
   <img src="./assets/gifs/toolkit.gif" width="55" align="middle"> Skills
 </h3>
 
-<details>
-  <summary><strong> Language </strong> <sub>(click to expand)</sub></summary>
+<details open>
+  <summary><strong> Language </strong> <sub>(click to collapse)</sub></summary>
   <br>
 
   ![Java](https://img.shields.io/badge/-Java-1E293B?style=flat&logo=openjdk&logoColor=F89820)
   ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
-  
+
 </details>
 
 <details>
@@ -59,8 +72,9 @@
 
 </details>
 
-<details>
-  <summary><strong> AI & Search </strong> <sub>(click to expand)</sub></summary>
+<details open>
+  <summary><strong> AI & Search </strong> <sub>(click to collapse)</sub></summary>
+  <br>
 
   ###### LLM & RAG
   > ![RAG](https://img.shields.io/badge/-RAG-1E293B?style=flat&logoColor=white)
@@ -106,21 +120,31 @@
 ---
 
 <h3>
+  <img src="./assets/gifs/toolkit.gif" width="55" align="middle"> Trophies
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rlckdwkd55&theme=algolia&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1&no-frame=true&column=7"/>
+</p>
+
+---
+
+<h3>
   <img src="./assets/gifs/about-me.gif" width="55" align="middle"> Contact
 </h3>
 
-<div>
+<div align="center">
   <a href="mailto:rlckdwkd55@naver.com">
-    <img src="https://img.shields.io/badge/-rlckdwkd55%40naver.com-1E293B?style=flat&logo=naver&logoColor=03C75A" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-1E293B?style=flat&logo=naver&logoColor=03C75A" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/gi._.chang/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-1E293B?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://rlckdwkd55.github.io/">
-    <img src="https://img.shields.io/badge/-Blog-20C997?style=flat&logo=github&logoColor=white" alt="Blog"/>
+    <img src="https://img.shields.io/badge/-Blog-1E293B?style=flat&logo=github&logoColor=FFFFFF" alt="Blog"/>
   </a>
   <a href="https://rlckdwkd55.github.io/portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-1D4ED8?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-1E293B?style=flat&logo=github&logoColor=60A5FA" alt="Portfolio"/>
   </a>
 </div>
 
