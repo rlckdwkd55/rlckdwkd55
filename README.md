@@ -23,54 +23,41 @@
 
   ![Java](https://img.shields.io/badge/-Java-1E293B?style=flat&logo=openjdk&logoColor=F89820)
   ![Python](https://img.shields.io/badge/-Python-1E293B?style=flat&logo=python&logoColor=4B8BBE)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1E293B?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-1E293B?style=flat&logo=typescript&logoColor=3178C6)  
   
 </details>
 
 <details>
   <summary><strong> Backend </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-  ###### Java
-  > ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1E293B?style=flat&logo=springboot&logoColor=6DB33F)
-  > ![Spring Security](https://img.shields.io/badge/-Spring%20Security-1E293B?style=flat&logo=springsecurity&logoColor=6DB33F)
-  > ![JPA](https://img.shields.io/badge/-JPA-1E293B?style=flat&logo=hibernate&logoColor=BCAE79)
-  > ![MyBatis](https://img.shields.io/badge/-MyBatis-1E293B?style=flat&logoColor=white)
-
-  ###### Python
-  > ![FastAPI](https://img.shields.io/badge/-FastAPI-1E293B?style=flat&logo=fastapi&logoColor=009688)
-  > ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1E293B?style=flat&logoColor=white)
-
-  ###### Node
-  > ![Node.js](https://img.shields.io/badge/-Node.js-1E293B?style=flat&logo=nodedotjs&logoColor=339933)
-
-</details>
-
-<details>
-  <summary><strong> Frontend </strong> <sub>(click to expand)</sub></summary>
-
-  ###### Framework
-  > ![Next.js](https://img.shields.io/badge/-Next.js-1E293B?style=flat&logo=nextdotjs&logoColor=FFFFFF)
-  > ![React](https://img.shields.io/badge/-React-1E293B?style=flat&logo=react&logoColor=61DAFB)
-
-  ###### State & Style
-  > ![Zustand](https://img.shields.io/badge/-Zustand-1E293B?style=flat&logoColor=white)
-  > ![styled-components](https://img.shields.io/badge/-styled--components-1E293B?style=flat&logo=styledcomponents&logoColor=DB7093)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1E293B?style=flat&logo=springboot&logoColor=6DB33F)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-1E293B?style=flat&logo=springsecurity&logoColor=6DB33F)
+  ![JPA](https://img.shields.io/badge/-JPA-1E293B?style=flat&logo=hibernate&logoColor=BCAE79)
+  ![MyBatis](https://img.shields.io/badge/-MyBatis-1E293B?style=flat&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-1E293B?style=flat&logo=fastapi&logoColor=009688)
 
 </details>
 
 <details>
   <summary><strong> AI & Search </strong> <sub>(click to expand)</sub></summary>
+  <br>
 
-  ###### LLM & RAG
-  > ![RAG](https://img.shields.io/badge/-RAG-1E293B?style=flat&logoColor=white)
-  > ![LangChain](https://img.shields.io/badge/-LangChain-1E293B?style=flat&logo=langchain&logoColor=A3BE8C)
-  > ![LangGraph](https://img.shields.io/badge/-LangGraph-1E293B?style=flat&logoColor=A3BE8C)
-  > ![vLLM](https://img.shields.io/badge/-vLLM-1E293B?style=flat&logoColor=white)
+  ![RAG](https://img.shields.io/badge/-RAG-1E293B?style=flat&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/-LangGraph-1E293B?style=flat&logoColor=A3BE8C)
+  ![vLLM](https://img.shields.io/badge/-vLLM-1E293B?style=flat&logoColor=white)
+  ![Qdrant](https://img.shields.io/badge/-Qdrant-1E293B?style=flat&logoColor=FF6640)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1E293B?style=flat&logo=elasticsearch&logoColor=60A5FA)
 
-  ###### Search & Vector DB
-  > ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1E293B?style=flat&logo=elasticsearch&logoColor=60A5FA)
-  > ![Qdrant](https://img.shields.io/badge/-Qdrant-1E293B?style=flat&logoColor=FF6640)
+</details>
+
+<details>
+  <summary><strong> Frontend </strong> <sub>(click to expand)</sub></summary>
+  <br>
+  
+  ![Next.js](https://img.shields.io/badge/-Next.js-1E293B?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+  ![React](https://img.shields.io/badge/-React-1E293B?style=flat&logo=react&logoColor=61DAFB)
 
 </details>
 
@@ -80,26 +67,17 @@
 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat&logo=postgresql&logoColor=4169E1)
   ![Oracle](https://img.shields.io/badge/-Oracle-1E293B?style=flat&logo=oracle&logoColor=F80000)
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-1E293B?style=flat&logo=mariadb&logoColor=4FC1E9)
   ![Redis](https://img.shields.io/badge/-Redis-1E293B?style=flat&logo=redis&logoColor=DC382D)
 
 </details>
 
 <details>
   <summary><strong> Infra & Tools </strong> <sub>(click to expand)</sub></summary>
-
-  ###### Container & CI/CD
-  > ![Docker](https://img.shields.io/badge/-Docker-1E293B?style=flat&logo=docker&logoColor=2496ED)
-  > ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-1E293B?style=flat&logo=docker&logoColor=2496ED)
-  > ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1E293B?style=flat&logo=githubactions&logoColor=2088FF)
-
-  ###### Build
-  > ![Gradle](https://img.shields.io/badge/-Gradle-1E293B?style=flat&logo=gradle&logoColor=A3BE8C)
-  > ![Maven](https://img.shields.io/badge/-Maven-1E293B?style=flat&logo=apachemaven&logoColor=C71A36)
-
-  ###### Version Control
-  > ![Git](https://img.shields.io/badge/-Git-1E293B?style=flat&logo=git&logoColor=F05032)
-  > ![GitHub](https://img.shields.io/badge/-GitHub-1E293B?style=flat&logo=github&logoColor=FFFFFF)
+  <br>
+  
+  ![Docker](https://img.shields.io/badge/-Docker-1E293B?style=flat&logo=docker&logoColor=2496ED)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1E293B?style=flat&logo=githubactions&logoColor=2088FF)
+  ![Git](https://img.shields.io/badge/-Git-1E293B?style=flat&logo=git&logoColor=F05032)
 
 </details>
 
