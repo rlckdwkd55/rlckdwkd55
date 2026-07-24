@@ -104,15 +104,6 @@
 
 <br>
 
----
-
-### 📄 Employer?
-
-> [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/16-HlWYoGXVdmd4eseBkchdKezt2W2pIP/view?usp=sharing">Download my resume</a>
-
-<br>
-
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frlckdwkd55">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frlckdwkd55&label=visitors&labelColor=%230f172a&countColor=%231d4ed8&style=flat-square"/>
