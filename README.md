@@ -13,9 +13,8 @@
   https://github-readme-activity-graph.vercel.app/graph?username=rlckdwkd55&bg_color=0f172a&color=60a5fa&line=1d4ed8&point=3b82f6&area=true&hide_border=true
 -->
 <p align="center">
-  <a href="https://github.com/rlckdwkd55">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlckdwkd55&theme=github_dark" alt="GitHub Activity"/>
-  </a>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rlckdwkd55&theme=github_dark" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rlckdwkd55&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
