@@ -7,8 +7,15 @@
 <br>
 
 <!-- Activity Graph -->
+<!--
+  기존 github-readme-activity-graph 공용 서버가 Vercel 무료 한도 초과(402)로 중단되어 교체.
+  복구되거나 직접 배포하면 아래 주소를 되살려 쓰면 됨.
+  https://github-readme-activity-graph.vercel.app/graph?username=rlckdwkd55&bg_color=0f172a&color=60a5fa&line=1d4ed8&point=3b82f6&area=true&hide_border=true
+-->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlckdwkd55&bg_color=0f172a&color=60a5fa&line=1d4ed8&point=3b82f6&area=true&hide_border=true"/>
+  <a href="https://github.com/rlckdwkd55">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlckdwkd55&theme=github_dark" alt="GitHub Activity"/>
+  </a>
 </p>
 
 ---
